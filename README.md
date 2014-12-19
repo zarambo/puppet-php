@@ -1,4 +1,4 @@
-Introduction
+:warning: The 1.x branch is not supported anymore and will not receive any updates or fixes! Do not use!
 ============
 
 [![Build Status](https://travis-ci.org/Mayflower/puppet-php.svg?branch=master)](https://travis-ci.org/Mayflower/puppet-php)
